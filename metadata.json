@@ -1,0 +1,10 @@
+{
+  "name": "MultiArt",
+  "description": "Studio seni dan desain visual profesional untuk pembuatan logo, kreasi visual, thumbnail, dan pengeditan gambar dengan estetika sunset oranye modern.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
